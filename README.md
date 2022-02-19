@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>The 1903 is here</h1>
-<iframe src="https://external-preview.redd.it/6CX4YSkJMNER2Y4_86T8pGtYCO7SAyUanQ8djPZqwlo.gif?format=mp4&s=4c56f1a30f8b0e7791ab9ca72b6209a1b0bea25f"></iframe>
