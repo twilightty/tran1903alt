@@ -1,4 +1,4 @@
-## Hi there 👋 I'm ![271988278_978009716472618_8982289354620452270_n](https://user-images.githubusercontent.com/80335335/154794262-629d108b-3204-47cd-96f0-6c51f2625e99.jpg)
+## Hi there 👋 I'm a coder, what do you want?
 
 <!--
 **tran1903alt/tran1903alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <---- Jk, my name is on the left
-😽
+
 
 
 
