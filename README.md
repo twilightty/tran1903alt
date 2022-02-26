@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a coder, what do you want?
+## Hi there 👋
 
 <!--
 **tran1903alt/tran1903alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
