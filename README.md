@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <---- Jk, my name is on the left
-      
-      \|                           \|
-      |   It's right here!        |
-      |     meow :3               |
-      |                           |
-       ---------------------------|
+😽
 
 
 
