@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Jk, my name is on the left
+### <---- Jk, my name is on the left
+      |                           |
+      |   It's right here!        |
+      |     meow :3               |
+      |                           |
+       ---------------------------|
 
 
 
