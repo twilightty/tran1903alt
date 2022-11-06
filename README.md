@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tran1903alt" alt="tran1903alt" /></a> </p>
 
-- 🔭 I’m currently working on [N2 Speech to Text](https://github.com/n2coding)
+- 🔭 I’m currently working on [stuff](https://github.com/n2coding)
 
-- 👯 I’m looking to collaborate on [Linux Kernel](https://github.com/torvalds/linux)
+- 👯 I’m looking to collaborate on [OpenCore]
 
 - ⚡ Fun fact **bad boi @ FCT Club**
 
